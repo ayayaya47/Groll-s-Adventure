@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collection
+  - Deadline
+  - Door
+  - Enemy
+  - Null
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ladder
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3508855559
+    locked: 0
+  - name: Environment
+    uniqueID: 2411931299
+    locked: 0
+  - name: Ladder
+    uniqueID: 1664708753
+    locked: 0
+  - name: Player
+    uniqueID: 3637465879
+    locked: 0
+  - name: Frontground
+    uniqueID: 2602551579
+    locked: 0
+  - name: Ground
+    uniqueID: 1349814135
+    locked: 0

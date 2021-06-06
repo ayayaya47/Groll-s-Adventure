@@ -1,0 +1,4 @@
+repository "Groll‘s Adventure1@ssl://kojimasan@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/112831956" 
+     
